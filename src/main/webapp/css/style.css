@@ -1,0 +1,61 @@
+body{
+	background-color: #5F9EA0	; 
+	text-align:center;
+
+}
+
+ul{
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+form{
+	margin: auto;
+}
+
+fieldset {
+	margin: 0 20rem 0 20rem;
+}
+
+button, #btn{
+	margin:2rem;
+	padding:2rem;
+	border-radius : 5px;
+}
+
+button#admin{
+   		font-size : 0.8rem;
+   		float : rigth;
+}
+
+#majeur{
+	background-color:red;
+}
+
+#mineur{
+	background-color:green;
+}
+
+img{
+    width: rem;
+}
+
+#tableMajeur {
+float: right;
+}
+
+#tableMineur {
+	float :left;
+}
+
+
+
